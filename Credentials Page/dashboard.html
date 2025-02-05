@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="dashboard.css">
+</head>
+<body>
+    <nav class="navbar" style="position: absolute; top: 0; right: 0; font-size: 1.5em;">
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#our-story">Our Story</a></li>
+            <li><a href="#testimonials">Testimonials</a></li>
+        </ul>
+    </nav>
+    <div class="profile-icon" onclick="toggleDropdown()">👤</div>
+    <div class="dropdown-menu hidden">
+        <a href="profile.html">My Profile</a>
+        <a href="transactions.html">My Transactions</a>
+        <a href="login.html">Logout</a>
+    </div>
+    <div class="dashboard-container">
+        <h1>Welcome to the Dashboard</h1>
+    </div>
+    <script>
+        function toggleDropdown() {
+            const dropdown = document.querySelector('.dropdown-menu');
+            dropdown.classList.toggle('hidden');
+        }
+    </script>
+</body>
+</html>
