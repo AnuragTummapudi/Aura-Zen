@@ -12,12 +12,12 @@ There is a need for a temporary, non-intrusive solution that provides emotional 
 Aura Zen aims to bridge this gap by offering an AI-powered personalized assistant that detects the user's mood, listens to them like a supportive friend, and recommends activities to enhance their well-being. By integrating real-time mood analysis and personalized interactions, Aurazen provides a comforting presence while encouraging users to take steps toward self-improvement.
 
 
-### Solution
+## Solution
 **Aurazen – Your AI-Powered Companion for Mental Well-Being**  
 
 Aurazen is an AI-driven personalized assistant designed to provide temporary emotional support, encourage mental well-being, and suggest mood-based activities. It offers a compassionate and engaging interaction experience without attempting to replace professional therapy.  
 
-#### **Key Features:**  
+### **Key Features:**  
 
 1. **Mood Detection**  
    - Uses facial analysis to detect the user’s emotional state.  
