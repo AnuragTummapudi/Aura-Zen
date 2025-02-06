@@ -54,7 +54,7 @@ By combining AI-powered conversations, real-time mood detection, and actionable 
 - React
 - Vite
 
-## 200 Success Team Members
+## **200 Success** - Team Members
 - [Anurag](https://github.com/AnuragTummapudi) - Team lead
 - [Shazia](https://github.com/aizahs31)
 - [Sai Saran](https://github.com/Saran2116)
