@@ -1,7 +1,7 @@
 # Aura Zen
 
 ## Short Description
-Aura Zen is an AI-powered personalized assistant designed to provide emotional support and encouragement. It detects the user's mood, listens attentively, and suggests activities to improve mental well-being. Acting as a supportive friend rather than a therapist, Aurazen offers a temporary companion for those seeking motivation and comfort in their daily lives.
+Aura Zen is an AI-powered personalized assistant designed to provide emotional support and encouragement. It detects the user's mood, listens attentively, and suggests activities to improve mental well-being. Acting as a supportive friend rather than a therapist, Aura Zen offers a temporary companion for those seeking motivation and comfort in their daily lives.
 
 ## **Problem Statement**  
 
